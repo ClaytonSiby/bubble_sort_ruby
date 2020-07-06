@@ -3,7 +3,7 @@
 
 The project is built to demonstrate the authors' understanding of basic Ruby language concepts such as loops, arrays, methods, and Conditional logic, among others.
 
-The project involves methods that take arrays as arguments and re-arrange them in ascending order.
+The project involves methods that take arrays as arguments and re-arrange them in ascending order using the Bubble-Sort Algorithm.
 
 
 ## Built With
