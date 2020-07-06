@@ -12,7 +12,7 @@ The project involves methods that take arrays as arguments and re-arrange them i
 
 ## Live Demo
 
-[Live Demo Link](https://repl.it/@ClaytonSiby/bubblesortruby#bubble_sort.rb )
+[@ClaytonSiby](https://repl.it/@ClaytonSiby/bubblesortruby#bubble_sort.rb ) [@RNtaate](https://repl.it/@RNtaate/bubblesortruby#bubble_sort.rb)
 
 ## Getting Started
 To get a local copy of this repository, please run the following commands on your terminal
